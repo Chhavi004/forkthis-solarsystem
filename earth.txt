@@ -1,4 +1,8 @@
 I am home planet
 I have oxygen
 HHHHE
+<<<<<<< HEAD
 my firnd
+=======
+My name is chhavi
+>>>>>>> test
